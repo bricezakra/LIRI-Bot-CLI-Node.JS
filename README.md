@@ -1,10 +1,14 @@
+# LIRI-Bot-CLI-Node.JS
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
-What Each Command Should Do
-node liri.js my-tweets
+
+## What Each Command Should Do
+
+### node liri.js my-tweets
 
 This will show your last 20 tweets and when they were created at in your terminal/bash window.
-node liri.js spotify-this-song ''
+
+### node liri.js spotify-this-song ''
 
 This will show the following information about the song in your terminal/bash window
 
@@ -14,7 +18,8 @@ This will show the following information about the song in your terminal/bash wi
     The album that the song is from
 
 if no song is provided then your program will default to "The Sign" by Ace of Base
-node liri.js movie-this ''
+
+### node liri.js movie-this ''
 
 This will output the following information to your terminal/bash window:
 
@@ -29,7 +34,8 @@ This will output the following information to your terminal/bash window:
     Rotten Tomatoes URL.
 
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-node liri.js do-what-it-says
+
+### node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
