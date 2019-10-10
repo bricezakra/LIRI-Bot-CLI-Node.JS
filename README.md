@@ -45,28 +45,28 @@ Feel free to change the text in that document to test out the feature for other 
 
 ## DEMO
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-20.png)
+![alt text](screenshots/01.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-29.png)
+![alt text](screenshots/02.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-44.png)
+![alt text](screenshots/03.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-53.png)
+![alt text](screenshots/04.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-01.png)
+![alt text](screenshots/05.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-08.png)
+![alt text](screenshots/06.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-12.png)
+![alt text](screenshots/07.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-27.png)
+![alt text](screenshots/08.png)
 
 
-![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-31.png)
+![alt text](screenshots/09.png)
