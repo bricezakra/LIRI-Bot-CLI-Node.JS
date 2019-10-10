@@ -42,3 +42,31 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
 
 Feel free to change the text in that document to test out the feature for other commands.
+
+## DEMO
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-20.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-29.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-44.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-43-53.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-01.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-08.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-12.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-27.png)
+
+
+![alt text](file:///home/coderx/Pictures/Screenshots/Screenshot%20from%202019-10-09%2022-44-31.png)
