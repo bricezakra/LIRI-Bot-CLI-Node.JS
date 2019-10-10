@@ -1,21 +1,39 @@
-node liri.js: my-tweets
-node liri.js: 
-node liri.js: spotify-this-song
-node liri.js: spotify-this-song we belong together
-node liri.js: spotify-this-song we belong together
-node liri.js: 
-node liri.js: myTweets
-node liri.js: my.tweets
-node liri.js: spotifySong all of me
-node liri.js: spotifySong
-node liri.js: my-tweets
-node liri.js: my-tweets
-node liri.js: spotify-this-song
-node liri.js: spotify-this-song
-node liri.js: movie-this
-node liri.js: do-what-it-says
-node liri.js: do-what-it-says
-node liri.js: movie-this avengers
-node liri.js: spotify-this-song one last time
-node liri.js: spotify-this-song fame
-node liri.js: my-tweets
+Tweets: dhdg
+The song you entered was ONE LAST DANCE.
+Track Title: One Last Dance
+Artist Name: Us The Duo
+Preview URL: https://p.scdn.co/mp3-preview/c74ecbee2e8519c6959290921ff4daa0b20ff1d6?cid=ac457e8bb8d842d49ec35512c178621c
+The movie you entered was BLACK PANTHER.
+Movie Title: Black Panther
+Year Released: 2018
+IMDb Rating: 7.3Rotten Tomatoes Rating: 96%
+Country: USA
+Language: English, Swahili, Nama, Xhosa, Korean
+Plot: T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.
+Cast: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+The song you entered was ONE LAST DANCE.
+Track Title: One Last Dance
+Artist Name: Us The Duo
+Preview URL: https://p.scdn.co/mp3-preview/c74ecbee2e8519c6959290921ff4daa0b20ff1d6?cid=ac457e8bb8d842d49ec35512c178621c
+The song you entered was ONE LAST DANCE.
+Track Title: One Last Dance
+Artist Name: Us The Duo
+Preview URL: https://p.scdn.co/mp3-preview/c74ecbee2e8519c6959290921ff4daa0b20ff1d6?cid=ac457e8bb8d842d49ec35512c178621c
+The song you entered was ONE LAST DANCE.
+Track Title: One Last Dance
+Artist Name: Us The Duo
+Preview URL: https://p.scdn.co/mp3-preview/c74ecbee2e8519c6959290921ff4daa0b20ff1d6?cid=ac457e8bb8d842d49ec35512c178621c
+The movie you entered was BLACK PANTHER.
+Movie Title: Black Panther
+Year Released: 2018
+IMDb Rating: 7.3Rotten Tomatoes Rating: 96%
+Country: USA
+Language: English, Swahili, Nama, Xhosa, Korean
+Plot: T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.
+Cast: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+The song you entered was "7 DAYS"
+
+.
+Track Title: 7 Days
+Artist Name: Craig David
+Preview URL: https://p.scdn.co/mp3-preview/908aaee447b7fc2e779b46499aef9d56e393ad02?cid=ac457e8bb8d842d49ec35512c178621c
